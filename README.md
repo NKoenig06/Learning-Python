@@ -17,7 +17,7 @@ I would recommend these next resources for data science and machine learning in 
 
 - I recommend using Jupyter Notebooks. It allows you to iterate through code quickly and fix broken code. When you are learning this is great. 
 - One of the things I struggled with early on was getting frustrated when my code wouldn't run. Maybe this is just me, but when you are coding you will almost certainly screw up, lol. You can't always get it right the first time. 
-- Google and Stackoverflow is your friend. The great thing about Python (and R) compared to SPSS and/or SAS is that there are tons of resources out there. If you have a question about something it's almost a gaurantee that someone else has had the same question and it has been answered on stackoverflow. Take advantage of that. As you get more familiar with Pandas, Numpy, etc. you will start to understand the lingo a bit better and your searches will yield you the results you are looking for much more quickly. At first for me it was searching something 4-5 different ways to find an answer, now I can usually find the information I am looking for on the first search. 
+- Google and Stackoverflow are your friend. The great thing about Python (and R) compared to SPSS and/or SAS is that there are tons of resources out there. If you have a question about something it's almost a gaurantee that someone else has had the same question and it has been answered on stackoverflow. Take advantage of that. As you get more familiar with Pandas, Numpy, etc. you will start to understand the lingo a bit better and your searches will yield you the results you are looking for much more quickly. At first for me it was searching something 4-5 different ways to find an answer, now I can usually find the information I am looking for on the first search. 
 
 1. [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/?couponCode=CURRENT_PY_DS_ML)
   - This course is a really good introduction to Numpy, Pandas, Matplotlib, Seaborn, and the most popular algorithms used in scikit learn. What I really like about this course is that he builds in 'tests' with real Kaggle data, so it's engaging. 
@@ -28,4 +28,6 @@ I would recommend these next resources for data science and machine learning in 
  4. [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition#whats-new-in-the-second-edition-from-the-first-edition)
    - Sebastian's book is great and starts to get into some more advanced topic and code. This is one I personally own and reference very often. I would highly recommend. 
    
+ # Deep Learning
  
+ To be added. 
