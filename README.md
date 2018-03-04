@@ -27,6 +27,8 @@ I would recommend these next resources for data science and machine learning in 
   - Jake made his entire book available for free on his github page and I think it's a great resource. I would highly encourage you to purchase the book as well to support more experts like this helping to teach. After you get the basics down Jake's book does a great job of helping walk you through more complex topics and code. 
  4. [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition#whats-new-in-the-second-edition-from-the-first-edition)
    - Sebastian's book is great and starts to get into some more advanced topic and code. This is one I personally own and reference very often. I would highly recommend. 
+ 5. [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
+   - This is a Machine Learning specialization through Coursera taught by professors from the University of Washington. IMO this course does a great job of going deeper into the math behind linear and logistic regression. My only issue with the course was that it used an ML API different than scikit learn that actually costs money. Early on when I was taking it I decided to do the assignments twice. Once with their API and then again with scikit learn, but I started to speed it up towards the end and didn't do it for the last 2 courses. 
    
  # Deep Learning
  
