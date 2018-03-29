@@ -10,7 +10,21 @@ I feel that having at least a basic understanding of the Python language is impo
   - This course is provided by MIT and is fairly difficult, but it provides you with a great intro background to Python and basic concepts in Computer Science.
 - [Complete Python Bootcamp](https://www.udemy.com/complete-python-bootcamp/). I think I can find a coupon code for this one for $11 instead of $19.99 if anyone wants to actually purchase it. 
   - This [link](https://www.udemy.com/complete-python-bootcamp/?couponCode=CURRENT_STU_COMPY) should include the coupon. 
-  
+
+
+# Data Science Related Podcasts
+
+- Machine Learning Guide
+- SuperDataScience Podcast
+- DataFramed
+- O'Reilly Data Show
+- This Week in Machine Learning & AI
+- Partially Derivative
+- Linear Degressions
+- Data Journeys
+- Data Stories
+- Not So Standard Deviations
+
 # Data Science and Machine Learning
 
 I would recommend these next resources for data science and machine learning in the order provided below as the first courses hold your hand a bit more than some of the other resources. Some of my basic thoughts when it comes to learning. 
