@@ -46,4 +46,9 @@ I would recommend these next resources for data science and machine learning in 
    
  # Deep Learning
  
- To be added. 
+1. [Andrew Ng's Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+  - Andrew did a lot over the last decade to make machine learning and deep learning a household name. He is one of the founders of Coursera and his Machine Learning course on Coursera is still probably one of the most popular courses ever on the platform. This specialization does a great job of breaking down the math and walking you through the code step by step for neural networks, CNNs, and RNNs. It's a great overview of everything deep learning has to offer. 
+2. [Deep Learning A-Z](https://www.udemy.com/deeplearning/)
+3. [Deep Learning and NLP A-Z](https://www.udemy.com/chatbot/)
+4. [Complete Guide to Tensorflow for Deep Learning](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/)
+  - All of these courses will help further familiarize yourself with the concept of deep learning. I actually haven't completed any of these. I am about 70% of the way through Deep Learning A-Z and 50% of the way through the Complete guide to tensorflow, but they are from some great minds in the field and the information I have completed has been a very good overview of the topics. 
